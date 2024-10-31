@@ -11,19 +11,19 @@ global.botnumber = ""
 global.confirmCode = ""
 
 global.owner = [
-  ['5219992095479', '👑 Mystic - Creador 👑', true],
-  ['51940617554', '💫 Mystic - Collaborator 2 💫', true],
-  ['51996089079', '💫 Mystic - Collaborator 3 💫', true],
-  ['5218442286089', '💫 Mystic - Collaborator 4 💫', true],
-  ['50246028932', '💫 Mystic - Collaborator 5 💫', true],
-  ['5212412377467', '💫 Mystic - Collaborator 6 💫', true],
+  ['967733565967', '👑 IZUMI 👑', true],
+  ['201558229263', '💫 REEM-CHAN 💫', true],
+  ['48459235855', '💫 EMMA 💫', true],
+  ['5218442286089', '💫 Mystic - Collaborator 4 💫', false],
+  ['50246028932', '💫 Mystic - Collaborator 5 💫', false],
+  ['5212412377467', '💫 Mystic - Collaborator 6 💫', false],
   ['5215517489568', '💫 Mystic - Rey Endymion 💫', false],
-  ['59895555511', '💫 Mystic - Collaborator 8 💫', true],
-  ['573012482597', '💫 Mystic - OfcDiego', true],
-  ['59175655964', '💫 Mystic - By Alba070503 💫', true],
-  ['5493794297363', '💫 Mystic - Gabriel Ofc', true], 
-  ['393518398856', '💫 Mystic - Tester Fabri115💫', true],
-  ['212781160203', '💫 Mystic - Saad 💫', true], 
+  ['59895555511', '💫 Mystic - Collaborator 8 💫', false],
+  ['573012482597', '💫 Mystic - OfcDiego', false],
+  ['59175655964', '💫 Mystic - By Alba070503 💫', false],
+  ['5493794297363', '💫 Mystic - Gabriel Ofc', false], 
+  ['393518398856', '💫 Mystic - Tester Fabri115💫', false],
+  ['212781160203', '💫 Mystic - Saad 💫', false], 
   ['593968585283'],
   ['5492266466080'],
   ['5218442114446'],
@@ -46,15 +46,15 @@ global.owner = [
   ['5492964650915']
 ];
 
-global.suittag = ['5219993404349'];
-global.prems = ['51995386439'];
+global.suittag = ['967733565967'];
+global.prems = ['201558229263'];
 
 global.packname = 'Sticker';
-global.author = 'The Mystic - Bot';
-global.wm = 'The Mystic - Bot';
-global.titulowm = 'The Mystic - Bot';
-global.titulowm2 = `The Mystic - Bot`
-global.igfg = 'The Mystic - Bot';
+global.author = 'EMMA - Bot';
+global.wm = 'EMMA - Bot';
+global.titulowm = 'EMMA - Bot';
+global.titulowm2 = `EMMA - Bot`
+global.igfg = 'EMMA - Bot';
 global.wait = '*_[ ⏳ ] Cargando..._*';
 
 global.imagen1 = fs.readFileSync('./Menu2.jpg');
@@ -79,16 +79,16 @@ global.mes = d.toLocaleDateString('es', {month: 'long'});
 global.año = d.toLocaleDateString('es', {year: 'numeric'});
 global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true});
 //* ****************************
-global.wm2 = `${dia} ${fecha}\nThe Mystic - Bot`;
-global.gt = 'The Mystic - Bot';
-global.mysticbot = 'The Mystic - Bot';
-global.channel = 'https://whatsapp.com/channel/0029Vaein6eInlqIsCXpDs3y';
-global.md = 'https://github.com/BrunoSobrino/TheMystic-Bot-MD';
-global.mysticbot = 'https://github.com/BrunoSobrino/TheMystic-Bot-MD';
+global.wm2 = `${dia} ${fecha}\n - Bot`;
+global.gt = 'EMMA - Bot';
+global.mysticbot = 'EMMA - Bot';
+global.channel = 'https://whatsapp.com/channel/0029VapFvML0bIdn7osZo60p';
+global.md = 'https://api.whatsapp.com/send?phone=+967733474291';
+global.emmabot = 'مو مجاني';
 global.waitt = '*_[ ⏳ ] Cargando..._*';
 global.waittt = '*_[ ⏳ ] Cargando..._*';
 global.waitttt = '*_[ ⏳ ] Cargando..._*';
-global.nomorown = '5219993404349';
+global.nomorown = '967733565967';
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf'];
 global.cmenut = '❖––––––『';
 global.cmenub = '┊✦ ';
